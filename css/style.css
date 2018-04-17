@@ -1,5 +1,41 @@
 /** Add a comment at the beginning of your CSS styles with your name**/
 
+/**Bethbk's advice**/
+.bethbk-advice h1 {
+	font-family: Raleway;
+	font-size: 45px;
+	text-transform: capitalize;
+	text-align: center;
+	color: black;
+	margin: 25px;
+	line-height: 50%;
+	letter-spacing: normal;
+}
+
+.bethbk-advice span {
+	text-transform: lowercase;
+}
+
+.bethbk-advice h4 {
+	font-family: Raleway;
+	font-size: 31px;
+	margin-top: 50px;
+}
+
+.bethbk-advice p {
+	font-family: Raleway;
+	font-size: 19px;
+	padding-left: 50px;
+	padding-right: 50px;
+	margin-left: 80px;
+	margin-right: 80px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	max-width: 1200px;
+	line-height: normal;
+}
+
+
 /****Marlene's advice*****/
 .marlene-advice h1{
    font-family:  noto-serif
